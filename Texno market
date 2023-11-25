@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pubg-videos.org</title>
+
+</head>
+<body>
+    <center><h1>Salom bizining saytga hush kelibsiz!!!</h1>
+    <form >
+<input placeholder="Email Kiriting:" required type="email"><br><br>
+<input minlength="8" maxlength="16" placeholder="Parol:" required type="password"><br><br>
+<input placeholder="Nickname" required type="text"><br><br>
+<input type="submit"><br><br>
+    </form>
+    <video src="Video/1.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/2.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/3.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/4.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/5.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/6.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/7.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/8.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/9.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/10.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/11.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/12.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/13.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/14.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/15.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/16.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/17.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/18.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/19.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+    <video src="Video/20.mp4" controls width="500px" height="500px" poster="logo.jpg" ></video>
+
+
+
+    <h1>
+Videolarimiz shulardan iborat edi keyingi sonlarda korshguncha. <br><br>
+Murojat uchun tel:+998889881181 <br><br>
+Youtube <button>o'tish</button><br><br>
+Instagram <button>o'tish</button><br><br>
+Twitter <button>o'tish</button><br><br>
+Facebook <button>o'tish</button><br><br>
+</h1>
+
+
+
+
+    </center>
+    <div>
+
+    </div>
+</body>
+</html>
